@@ -1,7 +1,7 @@
 username,repo_name,stars,repo_url
 metabase,metabase,35900,https://github.com/metabase/metabase
-logseq,logseq,28600,https://github.com/logseq/logseq
-penpot,penpot,25700,https://github.com/penpot/penpot
+logseq,logseq,28700,https://github.com/logseq/logseq
+penpot,penpot,25800,https://github.com/penpot/penpot
 deeplearning4j,deeplearning4j,13400,https://github.com/deeplearning4j/deeplearning4j
 LightTable,LightTable,11700,https://github.com/LightTable/LightTable
 kanaka,mal,9700,https://github.com/kanaka/mal
@@ -15,7 +15,7 @@ bbatsov,clojure-style-guide,4000,https://github.com/bbatsov/clojure-style-guide
 status-im,status-mobile,3800,https://github.com/status-im/status-mobile
 babashka,babashka,3800,https://github.com/babashka/babashka
 ring-clojure,ring,3700,https://github.com/ring-clojure/ring
-defold,defold,3500,https://github.com/defold/defold
+defold,defold,3600,https://github.com/defold/defold
 clojure-emacs,cider,3500,https://github.com/clojure-emacs/cider
 viebel,klipse,3100,https://github.com/viebel/klipse
 tallesl,Rich-Hickey-fanclub,3000,https://github.com/tallesl/Rich-Hickey-fanclub

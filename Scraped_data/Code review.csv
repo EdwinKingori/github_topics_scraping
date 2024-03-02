@@ -1,7 +1,7 @@
 username,repo_name,stars,repo_url
 ovity,octotree,22600,https://github.com/ovity/octotree
 gitpod-io,gitpod,12100,https://github.com/gitpod-io/gitpod
-reviewdog,reviewdog,7100,https://github.com/reviewdog/reviewdog
+reviewdog,reviewdog,7200,https://github.com/reviewdog/reviewdog
 danger,danger,5300,https://github.com/danger/danger
 danger,danger-js,5100,https://github.com/danger/danger-js
 joho,awesome-code-review,4200,https://github.com/joho/awesome-code-review
@@ -18,4 +18,4 @@ coderabbitai,ai-pr-reviewer,1300,https://github.com/coderabbitai/ai-pr-reviewer
 bit4woo,python_sec,1300,https://github.com/bit4woo/python_sec
 code-review-checklists,java-concurrency,1200,https://github.com/code-review-checklists/java-concurrency
 mattzcarey,code-review-gpt,1200,https://github.com/mattzcarey/code-review-gpt
-jiangsir404,Audit-Learning,946,https://github.com/jiangsir404/Audit-Learning
+jiangsir404,Audit-Learning,948,https://github.com/jiangsir404/Audit-Learning

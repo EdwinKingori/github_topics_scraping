@@ -1,11 +1,11 @@
 username,repo_name,stars,repo_url
-localstack,localstack,51400,https://github.com/localstack/localstack
+localstack,localstack,51500,https://github.com/localstack/localstack
 harness,gitness,31200,https://github.com/harness/gitness
 jenkinsci,jenkins,22100,https://github.com/jenkinsci/jenkins
 auchenberg,volkswagen,12800,https://github.com/auchenberg/volkswagen
-dagger,dagger,9700,https://github.com/dagger/dagger
+dagger,dagger,9800,https://github.com/dagger/dagger
 openshift,origin,8400,https://github.com/openshift/origin
-milanm,DevOps-Roadmap,7700,https://github.com/milanm/DevOps-Roadmap
+milanm,DevOps-Roadmap,7800,https://github.com/milanm/DevOps-Roadmap
 concourse,concourse,7100,https://github.com/concourse/concourse
 gocd,gocd,7000,https://github.com/gocd/gocd
 buildbot,buildbot,5200,https://github.com/buildbot/buildbot
